@@ -1,4 +1,4 @@
-# time Zone
+# Time Zone
 
 
 New York is 3 hours ahead of California,
